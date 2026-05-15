@@ -5,20 +5,6 @@ This application provides a transparent overlay for automated image analysis usi
 
 
 
-
-
-https://github.com/user-attachments/assets/53d47ec5-704a-4ff2-a21c-796f739a1c5e
-
-
-
-
-
-https://github.com/user-attachments/assets/240f12f5-2197-4cf4-88d1-ba273b509393
-
-
-
-
-
 ## Features
 
 - Transparent overlay that stays on top of other windows
@@ -58,22 +44,12 @@ For Kokoro on Windows, install `espeak-ng` separately if the selected voice/lang
 
 1. Clone this repository:
    ```
-   git clone <this-repository-url>
-   cd Screen-Analysis-Overlay
+   git clone https://github.com/githubdood21/AI-Backseater.git
+   cd AI-Backseater
    ```
 
 
 2. Set up a Python environment:
-
-   ### Option 1: Using Conda
-
-   ```
-   conda create -n screen-analysis python=3.9
-   conda activate screen-analysis
-   pip install -r requirements.txt
-   ```
-
-   ### Option 2: Using venv and pip
 
    ```
    python -m venv venv
