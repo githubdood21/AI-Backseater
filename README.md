@@ -1,8 +1,6 @@
-# Screen Analysis Overlay
+# AI-Backseater
 
 This application provides a transparent overlay for automated image analysis using an Oobabooga/OpenAI-compatible vision endpoint. It captures screenshots of a selected region or the entire screen in memory and analyzes them using AI, providing descriptions and alerts based on user-defined conditions. Currently tested only on Windows, but might be also Linux-compatible.
-
-
 
 
 ## Features
