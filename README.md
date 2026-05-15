@@ -83,8 +83,6 @@ For Kokoro on Windows, install `espeak-ng` separately if the selected voice/lang
 4. The overlay will continuously capture and analyze the selected region, displaying results in real-time.
 
 ## Configuration
-![kobo](https://github.com/user-attachments/assets/c8781ff4-b7c5-47a4-b72e-84da4a5e3ea2)
-
 - Adjust the `OOBA_OPENAI_URL` variable in the script or use "Oobabooga Settings" if your Oobabooga server is running on a different address.
 - Use "Character/Prompt" to change who the companion is and what it should do with each screenshot.
 - Use "Oobabooga Settings" to set or auto-detect the context size. Older memory messages are dropped first when the context budget is full.
