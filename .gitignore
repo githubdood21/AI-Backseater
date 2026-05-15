@@ -1,0 +1,37 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Local runtime state
+app.log
+*.log
+analysis_history.db
+*.sqlite
+*.sqlite3
+saved_screenshots/
+
+# Local third-party/dev clones
+kokoro/
+
+# Build/package output
+build/
+dist/
+*.egg-info/
+
+# Tool/editor files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+
+# OS noise
+Thumbs.db
+.DS_Store
